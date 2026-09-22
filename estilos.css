@@ -1,13 +1,15 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    padding: 40px;
+    font-family: Arial;
+    max-width: 600px;
+    margin: auto;
+    padding: 30px;
 }
 
-h1 {
-    font-size: 32px;
+input {
+    display: block;
+    margin-bottom: 15px;
 }
 
-p {
-    font-size: 20px;
+button {
+    padding: 10px;
 }
